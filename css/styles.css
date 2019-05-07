@@ -1,0 +1,200 @@
+/*INDEX CSS*/
+
+/*site font*/
+*{font-family: 'Oswald', sans-serif;}
+
+body{
+    background-image:url("../img/bgimg.png");
+}
+/*navigation*/
+#nav{
+    display: inline;
+    font-size: 30px;
+    margin: 20px;    }
+.navigation {
+    text-align: right;}
+.navigationfoot {
+    text-align: right;
+    display: block;
+    float: right;
+}
+
+/*link decoration NO UNDERLINE and color change*/
+a:link {
+    text-decoration: none;
+    color: #253946; /*blue color*/}
+a:visited {
+    text-decoration: none;
+    color: #253946;}
+a:hover {
+    color: #ecaa92; /*dark peach color*/}
+
+/*title*/
+.title{
+    display: inline;}
+#titlealign{ 
+    float: right;
+    text-align: left;
+    font-size: 80px;
+    line-height: 40%;
+    color: #253946;}
+/*BITS*/
+.bits{
+    display: block;
+    float: left;
+}
+.bitpagetitle{
+    color: #2e4b46;
+    font-size: 250px;
+    text-align: right;
+    float: left;
+    display: block;
+}
+/*CLASSIFICATION*/
+.classification{
+    display:block;
+    float: left;}
+/*intro text*/
+.intro{
+   display: inline;}
+p.introtext{
+    color:#253946;
+    width:400px;
+    text-align: left;
+    float: left;
+    font-size: 22px;}
+
+/*letter R*/
+.letterr{
+    display: block;
+    font-size: 100px;
+    float: left; 
+    text-align: center; }
+.serif{
+    color:#253946;
+    font-family: serif;}
+.sansserif{
+    color:#253946;
+    font-family: sans-serif}
+.monopsace{
+    color:#253946;
+    font-family: fantasy;}
+
+.video{
+    float: left;}
+
+/*page title and content*/
+.pagetitle{
+    color: #2e4b46;
+    font-size: 250px;
+    text-align: right;
+    line-height: 80%;}
+
+/*HISTORY*/
+.pagetitlehistory{
+    color: #2e4b46;
+    font-size: 250px;
+    text-align: right;
+    line-height: 80%;
+    margin-left: 700px;
+}
+.history {
+    display: block;
+    float: left;}
+.press{
+    float:left;
+    }
+
+p.introbody{
+    color: #253946;
+    font-size: 24px;
+    text-align: right;
+    width:300px;
+    float:right;
+    margin-right: 20px;}
+
+
+/*MY TYPE*/
+/*type test*/
+form{
+    text-decoration: none;
+}
+input{
+    width: 700px;
+    height: 200px;
+    font-size: 60px;
+}
+
+input:focus {
+    outline:none;
+}
+
+/*buttons*/
+
+button{
+        background-color: #ecaa92; /* peachish color */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 80px;
+        margin: 20px;
+        opacity: .6;
+}
+
+button:focus {
+    outline:none;
+}
+button:hover {
+    opacity: 1;
+}
+
+#typetest{
+    text-align: center;
+    font-size: 120px;
+}
+
+.mytypetitle{
+    color: #ecaa92;
+    font-size: 60px;
+}
+.mytypeindex{
+    display: block;
+    float: left;
+    margin-left: 350px;
+}
+/* FONT?*/
+
+/* szellem*/
+@font-face {
+font-family: "szellemserif";
+src: url("css/fonts/szellemserif.eot");
+src: 
+url("css/fonts/szellemserif.woff") format("woff"),
+url("css/fonts/szellemserif.otf") format("opentype"),
+url("css/fonts/szellemserif.svg#filename") format("svg");
+}
+
+/* squeetch*/
+@font-face {
+font-family: "squeetchsans";
+src: url("css/fonts/squeetchsans.eot");
+src: 
+url("css/fonts/squeetchsans.woff") format("woff"),
+url("css/fonts/squeetchsans.otf") format("opentype"),
+url("css/fonts/squeetchsans.svg#filename") format("svg");
+}
+
+
+.pagetitlemytype{
+    color: #2e4b46;
+    font-size: 250px;
+    display: block;
+    text-align: right;
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+
