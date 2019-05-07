@@ -169,22 +169,22 @@ button:hover {
 
 /* szellem*/
 @font-face {
-font-family: "szellemserif";
-src: url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif.eot");
+font-family: "szellemserif-webfont";
+src: url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif-webfont.eot");
 src: 
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif.woff") format("woff"),
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif.otf") format("opentype"),
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif.svg#filename") format("svg");
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif-webfont.woff") format("woff"),
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif-webfont.otf") format("opentype"),
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/szellemserif-webfont.svg#filename") format("svg");
 }
 
 /* squeetch*/
 @font-face {
-font-family: "squeetchsans";
-src: url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans.eot");
+font-family: "squeetchsans-webfont";
+src: url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans-webfont.eot");
 src: 
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans.woff") format("woff"),
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans.otf") format("opentype"),
-url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans.svg#filename") format("svg");
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans-webfont.woff") format("woff"),
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans-webfont.otf") format("opentype"),
+url("https://github.com/LettersYourReading/LettersYourReading.github.io/blob/master/css/fonts/squeetchsans-webfont.svg#filename") format("svg");
 }
 
 
