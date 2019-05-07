@@ -166,10 +166,10 @@ button:hover {
     margin-left: 350px;
 }
 /* FONT?*/
-input.mySqueetch(){
+input.mySqueetch{
     font-family: "sqeetchsans-webfont";
 }
-input.mySzellem(){
+input.mySzellem{
     font-family: "szellemserif-webfont";
 }
 
